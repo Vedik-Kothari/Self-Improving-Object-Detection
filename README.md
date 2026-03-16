@@ -34,12 +34,12 @@ Train YOLOv8n → Detect Failures → DINO Anomalies
       └──────────────────────────────────────────
 ```
 
-1. **Phase 3** — Train YOLOv8n baseline on COCO 2017
-2. **Phase 4** — Failure detection using confidence + entropy
-3. **Phase 5** — DINO embeddings find anomalous images
-4. **Phase 6** — Stable Diffusion generates hard scenarios
-5. **Phase 7** — Expand dataset with synthetic images
-6. **Phase 8** — Retrain and measure improvement
+1. **Phase 1** — Train YOLOv8n baseline on COCO 2017
+2. **Phase 2** — Failure detection using confidence + entropy
+3. **Phase 3** — DINO embeddings find anomalous images
+4. **Phase 4** — Stable Diffusion generates hard scenarios
+5. **Phase 5** — Expand dataset with synthetic images
+6. **Phase 6** — Retrain and measure improvement
 
 ---
 
