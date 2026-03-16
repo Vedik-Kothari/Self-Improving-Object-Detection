@@ -108,23 +108,6 @@ streamlit run app/app.py
 - 👥 Crowded markets
 - 🏗️ Construction zones
 
----
-
-## 🎓 Resume Bullet Points
-
-- Built self-improving object detection system using
-  YOLOv8, DINO, and Stable Diffusion achieving
-  +29.3% mAP improvement
-- Implemented failure detection module using confidence
-  thresholds and Shannon entropy analysis
-- Applied self-supervised learning (DINO ViT-S/8) for
-  anomaly detection without labels
-- Generated synthetic training data using Stable
-  Diffusion v1.5 targeting specific model failure cases
-- Deployed interactive web demo using Streamlit + ngrok
-  on Kaggle T4 GPU infrastructure
-
----
 
 ## 📞 Author
 
